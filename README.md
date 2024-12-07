@@ -1,4 +1,4 @@
-# 🖥 The Dev News 
+# 🖥 Landing page
 
 ### 📜 Sobre o Projeto  
 Este projeto teva como principal objetivo a construção de uma landing page para uma empresa de arquitetura. Nele aprimorei meus conhecimentos utilizando as melhores praticas do html e css puro utilizando um codigo limpo.
